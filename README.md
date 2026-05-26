@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <img width="802" height="1101" alt="Diagramme_Frogger_mbed drawio (1)" src="https://github.com/user-attachments/assets/c3699952-a133-4668-80c5-ab599a4a1c2e" />
+
 
 # Développement et Architecture
 
-Ce projet a été développé en C/C++ et compilé via Keil Studio Cloud (l'IDE en ligne officiel d'ARM Mbed).
+Ce projet a été développé en C++ et compilé via Keil Studio Cloud (l'IDE en ligne officiel d'ARM Mbed).
 
 L'architecture du code a été pensée pour être à la fois claire et réactive :
 
